@@ -1,0 +1,28 @@
+name: Fire
+favicon: null
+layout_spectrum: 0.4565123973879963
+typography_spectrum: 0.6447619879618287
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8291715185623616
+  lightness: 0.4679205836728215
+  saturation: 0.3646260651294142
+  rhythmicContrast: 0.905257795471698
+purpose: []
